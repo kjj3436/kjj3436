@@ -2,7 +2,7 @@
 
 :wave: Hello My name is jungjae, I am a process developer working at KAPS
 
- My major is information and communication engineering , and I have been working for a company since 2014. 
+ My major is information and communication engineering , and I have been working for a company KAPS since 2014. 
  
 ### :purple_heart: Career
 
