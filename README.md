@@ -1,9 +1,9 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fharimkang)](https://hits.seeyoufarm.com) ![Hits](https://img.shields.io/github/followers/harimkang?label=Follow)
 
-:wave: Hello My name is Harim, I am a developer working at ![Intel](https://img.shields.io/badge/-Intel%20Korea-0071C5?style=flat-square&logo=intel&logoColor=white)
+:wave: Hello My name is jungjae, I am a process developer working at KAPS
 
- My major is **mathematics:books:**, and I have been studying **computer science:computer:** since 2018. I have project experience using **Python(My most confident language)**, Java & Android, c++, and Matlab languages. I am very interested in **machine learning**. I am especially interested in computer vision.
-
+ My major is information and communication engineering , and I have been working for a company since 2014. 
+ 
 ### :purple_heart: Career
 
 | **Type** | **Date** | **Contents** | **Organization** |
