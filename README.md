@@ -12,7 +12,7 @@
 | **:mortar_board: Education** | 2014. 3 ~ 2016. 2 | information and communication engineering | **National Institute for Lifelong Education College transfer** |
 
 ### :cyclone: Languages
-![PYTHON](https://img.shields.io/badge/PYTHON-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-0696D7?)
+![PYTHON](https://img.shields.io/badge/PYTHON-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86)
 ![C++](https://img.shields.io/badge/C++-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-3DDC84?style=plastic&logo=android&logoColor=white)
 [ROS](https://img.shields.io/badge/Matlab-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-0076A8?style=plastic&logo=mathworks&logoColor=white) !
 [Kotlin](https://img.shields.io/badge/Kotlin-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-0095D5?style=plastic&logo=kotlin&logoColor=white)
