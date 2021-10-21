@@ -1,8 +1,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkjj3436)](https://hits.seeyoufarm.com)
 
-:wave: Hello My name is jungjae, I am a process developer working at KAPS
+:wave: Hello My name is jungjae, I am a production site manager working at KAPS
 
- My major is information and communication engineering , and I have been working for a company KAPS since 2014. 
+ My major is information and communication engineering , and I have been working for a company KAPS since 2014
  
 ### :purple_heart: Career
 
