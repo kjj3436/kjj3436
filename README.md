@@ -10,7 +10,7 @@
 |:--------:|:--------:|:--------:|:--------:|
 | **:mortar_board: Education** | 2000. 3 ~ 2005. 2 | information and communication engineering  | **Mokpo Science University** |
 | **:mortar_board: Education** | 2014. 3 ~ 2016. 2 | information and communication engineering | **National Institute for Lifelong Education College transfer** |
-| **:mortar_board: Education** | 2020. 8 ~   | information and communication engineering | **Chungbuk National University** |
+| **:mortar_board: Education** | 2020. 8 ~   | Department of Industrial Artificial Intelligence | **Chungbuk National University** |
 
 ### :cyclone: Languages
 ![PYTHON](https://img.shields.io/badge/PYTHON-%E2%98%86%E2%98%86%E2%98%86%E2%98%86%E2%98%86?style=plastic&logo=Python&logoColor=white)
